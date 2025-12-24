@@ -1,0 +1,10 @@
+node_modules
+.env
+dist
+build
+.DS_Store
+*.log
+.vscode
+.idea
+whatautosys/node_modules
+whatautosys_admin/node_modules

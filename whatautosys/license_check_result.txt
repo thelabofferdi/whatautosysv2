@@ -1,0 +1,11 @@
+📄 Contenu de la licence:
+  ID: WL-922B97CA44131CA2
+  HWID: 6c3b97f23417e2dfe37ece1e7ddd5ba81f0bd89b425c87b1ebfd1f72da3d5f27
+  Plan: pro
+  Client: ferdo
+  Expire: 2026-01-22T23:58:05.270Z
+
+🔑 Clé API Mistral: zorGLo249sZnt3WnFKeg...
+
+🧪 Test de la clé API...
+❌ Clé API INVALIDE: API error occurred: Status 401 Content-Type "application/json; charset=utf-8". Body: {"detail":"Unauthorized"}

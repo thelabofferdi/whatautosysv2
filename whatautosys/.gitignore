@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+auth_info_baileys/
+data/*.db
+data/*.json
+!data/.gitkeep
+license.key
